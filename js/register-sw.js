@@ -6,4 +6,3 @@ if ('serviceWorker' in navigator){
 } else {
   console.log('Service Worker no es soportado!');
 }
-

@@ -1,0 +1,7 @@
+#navbar-top.offline {
+  background-color: red !important;
+}
+
+#navbar-top.online {
+  background-color: green !important;
+}
